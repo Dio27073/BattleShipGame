@@ -1,7 +1,7 @@
 Java Battleship Game
 
 Description:
-This project is a Java-based implementation of the classic two-player game Battleship. The objective of the game is for each player to try and sink the others hidden ships.
+This project is a Java based implementation of the two-player game Battleship. The objective of the game is for each player to try and sink the others hidden ships.
 This implementation includes a graphical user interface, turn-based gameplay, and follows standard Battleship rules.
 
 Team Members:
